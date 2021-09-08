@@ -1,0 +1,8 @@
+prefix=/home/zach/catkin_ws/install
+
+Name: demo_2
+Description: Description of demo_2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
